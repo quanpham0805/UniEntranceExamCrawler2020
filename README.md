@@ -3,7 +3,7 @@
 
 ## The University Entrance Exam Crawler Project, 2020
 
-This project is a complete mess that I don't want to look at it again to be honest.
+I decided to create this project to practice my Python skills
 
 #### File explanations:
 - dataCrawler.py: crawl data from the vnexpress.
